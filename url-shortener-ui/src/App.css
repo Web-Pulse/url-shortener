@@ -1,0 +1,12 @@
+/* Add Bootstrap classes to style the elements */
+body {
+  padding: 2rem;
+}
+
+.form-inline input {
+  width: 70%;
+}
+
+.form-inline button {
+  width: 28%;
+}
