@@ -23,14 +23,18 @@ URL Shortener is a web application that allows users to shorten long URLs, makin
    ```bash
    npm install
    
-## Start the application using
-   ```bash
-   npm start
-
 ## Usage
 
-1. Access the application at http://localhost:3000.
-2. Enter a long URL in the input field and click "Shorten URL" to get the shortened URL.
+1. Start the application:
+   ```
+   npm start
+3. Access the application at [http://localhost:3000](http://localhost:3000).
+4. Enter a long URL in the input field and click "Shorten URL" to get the shortened URL.
 
 ## Contributing
+
 Contributions are welcome! Feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License.
