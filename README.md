@@ -24,7 +24,8 @@ URL Shortener is a web application that allows users to shorten long URLs, makin
    npm install
    
 ## Start the application using
-npm start
+   ```bash
+   npm start
 
 ## Usage
 
